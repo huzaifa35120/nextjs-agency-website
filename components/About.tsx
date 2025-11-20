@@ -1,7 +1,6 @@
 // components/About.tsx
 export default function About() {
     return (
-        //hello
       <section id="about" className="section">
         <div className="container section__header">
           <h2>About Target Bluprint</h2>
