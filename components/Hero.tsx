@@ -6,7 +6,7 @@ export default function Hero() {
           <div>
             <p className="eyebrow">Web Design Agency • Sydney</p>
             <h1>
-              Simple websitezzzzzz,
+              Simple websites,
               <span className="gradient-text"> serious results.</span>
             </h1>
             <p className="lead">
